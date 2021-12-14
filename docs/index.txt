@@ -1,0 +1,2 @@
+Máscara de colisão do player: 64W×50H
+Máscara de colisão do tubo: 56W×64H
